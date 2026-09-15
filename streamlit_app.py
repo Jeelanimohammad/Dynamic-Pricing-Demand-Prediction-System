@@ -1,4 +1,4 @@
 """
-Entrypoint for Streamlit application.
+Dynamic Pricing & Demand Prediction System - Root Streamlit App.
 """
-from frontend.app import *
+from app import *
